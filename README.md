@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am currently a student <br>learning web development <br>have a pretty good hand in DSA in c++ and Java<br>and also aspiring cloud engineer
+A CS student<br>learning web development <br>have a pretty good hand in DSA in c++ and Java<br>and also aspiring cloud engineer
 
 
 # 💻 Tech Stack:
